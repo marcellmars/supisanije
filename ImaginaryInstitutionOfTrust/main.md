@@ -4,11 +4,11 @@ Title: The Failure of Technological Governmentality and the Persistence of Socie
 Author: Marcell Mars & Tomislav Medak
 ---
 
-#Trust and technosolutionism
+# Trust and technosolutionism
 
 
 
-#Internet and the failure of technological governmentality
+# Internet and the failure of technological governmentality
 
 Techno-communitarian vision that a distributed network system designed around neutral and 'dumb' protocols with values and ‘intelligence’ built at the ends would create an adequate basis for instituting trust among globally connected communities and thus lead to a level playing field where all could participate equally in a plural global civil society obstructed the view of its embeddedness in structures of capitalist production, aggregates of economic power, ideologies of markets and governmental control. The powerful pull of these structures has directed the development of internet toward a construction of a radically unequal world marked by stupendous concentration of wealth and military control. The entrepreneurial plutocracy of Silicon Valley and the capacity of Five Eyes to blanket surveil global electronic communication are just the tip of the iceberg of that momentous act of self-deception. Platformization facilitating global arbitrage of labor, impeding automation of large labor sectors of advanced economies, integration of world-spanning logistical systems all come with increasingly ungovernable consequences of differential value capture and social polarization.
 
@@ -19,7 +19,7 @@ Yet this radical vision of flattened institutional power and leveled playing fie
 The last twenty years of technological governmentality have seen a number of crises arise amidst the capitalist world-system – global economic crisis, climate change crisis, housing crisis, surveillance crisis to name just a few. Technologies of trust built for the interaction of communities have failed in the face of polarizing values and interests, yet they have also served to undercut social institutions that have been built to mediate and strike generalizable solutions to problems of complexity, uncertainty, asymmetry, conflicting interests and values among diverging communities. In doing so, they have also undercut the vision of society – conflictual and plural – as a space of agency where a utopian imaginary can be meaningfully, generalizably and consequentially direct collective development beyond a crisis. While the communities and their formalizing visions of end-to-end engines were blossoming, the social was slowly withering away.
 
 
-#Governing crisis by technology
+# Governing crisis by technology
 
 Nowhere is the delegation of agency to end-to-end formalization more alarmingly patent than in the climate change policy arena. In the post-socialist world of governance, de-carbonization scenarios can only be politically negotiated with the engines of technologies and markets. Rapid de-carbonization through massive deployment of renewables, investments into energy efficiency and carbon taxes are already impossible to negotiate, let alone the interventions that would stymie growth and bring global economy within the limits of planetary bioregenerative capacities, which the humanity cumulatively is overstepping by a factor of 1.6 and in some places like the US or the Gulf states by a factor of 4 to 6. Because radical de-carbonization would have to burst asunder the modern idol of non-intervention and could have potentially negative effects on competitive advantages of national economies, decision makers know such interventions can be politically costly and are thus rather entering a moral hazard by betting on barely developed technologies.
 
@@ -31,7 +31,7 @@ As Jerry Ravetz and his long-standing collaborator Silvio Funtowicz have propose
 
 Yet it is exactly such pluralist forms of institutional deliberation that the post-normal science proposes, with its commitment to the unknown, the conflictual and the uncertain, that the global governance structures cannot even begin to consider. While more universal imaginary, institutional agency and global redistributive politics is required to accommodate experimentation with processes that would lead to creating a global social metabolism that could guarantee a sustainable future of humanity on the planet, the international and national institutional frameworks cannot but remain in thrall of the simplifications of the free market and the technological development, hoping that the subsidies might be all they need to do.
 
-#Collapse of Technological Control
+# Collapse of Technological Control
 
 As a cautionary tale of failure that social institutions end up  once they get sucked down into technological governmentality trap, it is worth looking back to the early development of cybernetics. Ravetz in his discuss of scientific model as metaphor distinguishes two types of scientific modeling in decision making. One that is premised on predicting the future, where uncertainty is considered a failure. This type modeling is full of metaphorical language replete with assumptions stemming from hard sciences and economics. ‘Overarching metaphors like "growth" are translated into particular sorts of social-scientific language, and are then given very particular sorts of policy implications.’ The other is scientific modeling that embraces the plurality of metaphors we use to explain the complex reality and the unknowablity of the future to grapple with challenges of decision making. Metaphors and imaginary are thus part and parcel of both science and politics in the face of an impeding crisis. 
 
@@ -41,7 +41,7 @@ Developed to analyze, simulate and carry out scenarios of the nuclear containmen
 
 There are obvious parallels to be drawn between the cybernetic warfare of the Cold War period and the technological imaginary of the post-1989 period. A small community of scientists and technologists, mostly at RAND and Pentagon, constructed a world that conformed to their values and interests, a closed world upon which they could unleash their tools. There are also, however, genealogical lineages that emerged from the Cold War in the form of microeconomics, game theory, systems analysis that would ultimately win the game of attrition against its Soviet opponent and shape the economic world of the present. The development of computing over the last two decades has undergone radical transformations with the massive deployment of digital networks, the ubiquity of computer systems and the growing centralization of computing. This has both enabled and was enabled by the post-1989 global integration of the free market envisioned in the strategy of containment. Cybernetic systems of the present catalyze an accelerated capitalist world-systems that is teetering at the brink of a systemic crisis and a planetary collapse. The world of the present is marked by enormous socio-economic disparities between ever smaller segment of global population in the North and much larger impoverished global populations based in Asia and Africa. While the North dominates the economic, technological and military landscape, the institutional landscape is increasingly left to wither away so as to not face the fundamental issue how we can reach a more equitable and sustainable global system.
 
-#Paths not taken
+# Paths not taken
 Norbert Wiener was reluctant to expand the cybernetics to social organizations for ethical reasons. While he saw understood that the social systems could be analyzed in the same terms as machines and organisms and potentials for cybernetic architecture to enable the interaction of humans with a growingly complex environment, he also understood that it could be also put to use toward forms of social development that were contrary to his humanist goals. In fact, in 1949 Wiener penned a letter to Walter Reuther, the president of the Union of Automobile Workers trade union, warning of the threat of automation on labor and placing himself at the service of opposing that development. While the post-war push for automation, driven largely by the pressure of US military to stifle labor resistance, proved to be of relatively limited effect, cybernetics was not all the US military community desired it to be. Even though their vision had prevailed, it had prevailed rather by the merit of superior economic and military power. The WWII had left the US in a superior position over its allies and its enemies, and by 1989 the US has used its position to secure its hegemony. Even in the present the US is the greatest military power and largest consumer market of the world, holding domination over the global politics and economic development in spite of the slow-down of its crumbling leading role.
 
 The historian of technology Roland Kline has suggested that there’s a disunity of cybernetics. While the interdisciplinary endeavor of organic, second-order cybernetics advocated by the likes of Wiener, Bateson and Maturana slowly lost its appeal by 1970s, the machine, first-order cybernetics of the engineers eventually prevailed and paved the way for microcomputing and digital networks. It is this machine cybernetics, which black boxes the social component in the organization of technological systems, that continues to dominate to this day. However, other paths stood open to the development of cybernetics outside of the US that would remain for various reasons not taken.
@@ -54,7 +54,7 @@ These alternative paths never taken might have led to a very different technolog
 
 
 
-#Limits of Formalisation
+# Limits of Formalisation
 	-- engines of formalisation, end-to-end trust: tech, market, property
 	-- intellectual property + internet tech
 		-- copyright emerged as complement and autonomy from autocratic control and patronage
@@ -65,7 +65,7 @@ These alternative paths never taken might have led to a very different technolog
 
 
 
-#Institutions & Trust
+# Institutions & Trust
 	-- social definition of trust: shared values + competency + priority of common interest (in a situation where there's conflict of interests)
 	-- institution as care for the common(s)
 	-- public library & university: institutional setups to tackle complexity, uncertainty, unknowns, asymmetry, conflicting interests and values, social collapse
