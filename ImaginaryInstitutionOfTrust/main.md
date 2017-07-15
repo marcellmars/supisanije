@@ -67,6 +67,10 @@ Following up the initial account on the development of cybernetics in the Soviet
 These alternative paths never taken might have led to a very different technological environment of digital networks than the one we’ve got today. The technological environment that we’ve got today is no mere result of technological development, but also the result of actions by the US hegemony that extends into the present moment. Now that this hegemony has ushered us in into a number of crises that threaten social and existential stability for the large segments of the global population, the time has come to re-institutionalize its engines of formalization.
 
 
+-- developer communities are key to pluralism and dynamism of technological development, institutional governance models tend to overlook that dynamic, however in order to historicize the trajectory of technological development that perspective is equally formative and necessary -- i.e. what are the visions, desires and imaginaries of developers
+
+-- given the paths not taken, technological development historically remained within the horizon of technological optimisation that benefits the community and occludes the view of the pluralism and antagonism of plurality of communites and positions that form the society 
+
 
 # Limits of Formalisation
 	-- engines of formalisation, end-to-end trust: tech, market, property
