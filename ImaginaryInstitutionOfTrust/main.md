@@ -6,6 +6,20 @@ Author: Marcell Mars & Tomislav Medak
 
 # Trust and technosolutionism
 
+In order to establish a common successful communication Alice and Bob should trust the communication medium (language if in person or communication channel in between them if remote) and to certain degree, many would expect, they should trust to each other too. If this was the beginning of the paper in cryptography everyone in the field would know that Alice and Bob have no specific personalities, no history of personal relationship(s), not elaborate future goals of their communication, no dreams nor nightmares. Nevertheless their conversation will be joined by Carol, Carlos or Charlie (always one, never two or more), Dan, Dave or David (always one of them just like C*s), very rarely Erin (and that's only if Eve is not listening to them in secret) and Frank if the conversation becomes crowdier than usual. As already mentioned Eve is frequent malicious participant in their communication. She is an eavesdropper. She can only hear what they say to each other but unlike Mallory (aka Mallet) she's not man-in-the-middle who would modify, substitute or reorder the messages from the conversation Alice and Bob &co. are having.
+
+The cast of members[^alicebob], together with Alice and Bob, are all fictional characters, rhymed mnemonics or metaphorical anchors which through time became idiomatic template to introduce, in a more convenient way, a communication scenarios/setups in fields like cryptography, game theory and physics. It helps explaining a complex matter. An alphabetically ordered peculiar pleiad of characters with no other social context provided but the minimal, precisely specified role in a communication scenarios in some, interesting, way portrays the community in which is situated. A community which is able to be bootstrap itself around the sole reason of exploring, sharing and working on elegant solutions for very complex problems raising from their specific problem domain. Just like in the story about Alice, Bob &co. for members of a community members the most important thing is their mastery of metaphorical anchors so complex matter can be shared through comprehensive stories, real names are not important, "kings, presidents, and voting" are rejected, what is believed is "rough consensus and running code"[^ietf]
+
+IETF i cypherpunk.
+
+End-to-end principle. Reliability through unreliable parts.
+Public/Private Key.
+Digital currency.
+Blockchain as summary of many fantasies..
+
+[^alicebob]: https://en.wikipedia.org/w/index.php?title=Alice_and_Bob
+[^ietf]: https://www.ietf.org/tao.html
+
 
 
 # Internet and the failure of technological governmentality
