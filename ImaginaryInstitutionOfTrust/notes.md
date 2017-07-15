@@ -6,6 +6,7 @@ STUKTURA TEKSTA:
 - intro: u tehno svijetu povjerenje se delegira na formalizaciju komunikacijskog kanala/medija
 - bitni keywordi: trust, technocommunity, end to end, formalization
  * Alice & Bob: end to end kripto
+ * end-to-end engines of formalization: open markets, private property and nation states. via vision of smartness, efficiency and autonomy black box/engine with in/out flow
  * kripto community: postignuće & posljedice
  * scaling-up: google wave (institucionalni okvir -- google kompanija, ali institucija bez ideje društva fejla), the dao & internet
  * kada podignemo scale, trust faila jer je u pitanju kompleksnost i konfliktnost --> društveno
