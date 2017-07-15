@@ -10,6 +10,7 @@ STUKTURA TEKSTA:
  * kripto community: postignuće & posljedice
  * scaling-up: google wave (institucionalni okvir -- google kompanija, ali institucija bez ideje društva fejla), the dao & internet
  * kada podignemo scale, trust faila jer je u pitanju kompleksnost i konfliktnost --> društveno
+ * 
 
 - 
 
