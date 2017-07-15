@@ -20,6 +20,8 @@ STUKTURA TEKSTA:
 
 
 
+* go back to institutions. they are born in a process of enriching ends (of end-to-end) and through that they subscribe to the vision of building better society. that's boundary work. part of it is to translate imaginary into practice. institutions complement techno-community development through situating it into process of building society (vs community). that's why we trust institutions. as everything else they are pressed to reduce itself into technology-market driven path. they should resist and that's essential part of their existence and function in the society.
+
  * in order to historicize technological developments it is important to get deeper into dynamics and perspectives of developers, to follow their epystemological vectors (lol), understand their desires, imagineries, preferences, oral histories.... to see how much of that is present in literature (especially the ones outside of western world)
  
  
