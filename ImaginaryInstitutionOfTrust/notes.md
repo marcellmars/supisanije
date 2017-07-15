@@ -28,7 +28,11 @@ STUKTURA TEKSTA:
 * post-normal science & institutional decision making
 * return to the idea of society & institution against technology & market
 
-4. 
+4. Collapse of Technological Control
+* modelling & metaphor, metaphors shape imaginary
+* metaphor of Closed World in the context of Cold War cybernetic warfare
+* defeat of Closed World technogovernance
+* epistemically cybernetics lead to economic theories that are hegemonic and have created the situation in the present
 
 
  * in order to historicize technological developments it is important to get deeper into dynamics and perspectives of developers, to follow their epystemological vectors (lol), understand their desires, imagineries, preferences, oral histories.... to see how much of that is present in literature (especially the ones outside of western world)
