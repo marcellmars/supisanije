@@ -3,24 +3,33 @@ Title: The Imaginary Institution of Trust -- Sandbox
 ---
 
 STUKTURA TEKSTA:
-- intro: u tehno svijetu povjerenje se delegira na formalizaciju komunikacijskog kanala/medija
-- bitni keywordi: trust, technocommunity, end to end, formalization
+1. intro: u tehno svijetu povjerenje se delegira na formalizaciju komunikacijskog kanala/medija
+   - bitni keywordi: trust, technocommunity, end to end, formalization
  * Alice & Bob: end to end kripto
  * end-to-end engines of formalization: open markets, private property and nation states. via vision of smartness, efficiency and autonomy black box/engine with in/out flow
  * kripto community: postignuće & posljedice
  * scaling-up: google wave (institucionalni okvir -- google kompanija, ali institucija bez ideje društva fejla), the dao & internet
+  * kada zajednica projicira tehno-rješenje generalno na scale društva to fejla
  * kada podignemo scale, trust faila jer je u pitanju kompleksnost i konfliktnost --> društveno
- * kada zajednica projicira tehno-rješenje generalno na scale društva to fejla
+
 
 2. Internet and the failure of technological governmentality
+   - bitni keywordi: trust, technocommunity, end to end, formalization
 * level playing field in communication leads to an unequal worlds
 * inequalities in the world as a result of post-1989 unfettered capitalist expansion, simplification and replacement of politics with technological governmentality
 * participation vs accumulation
 * rise of technogovernmentality and demise of social governmentality
+* crises
 
+3. Governing crisis by technology
+* technology + market reduce institutional governance of crisis
+* politcs accepts that simplification, b/c redistribution is politically costly
+* technological fixes are risky and moral hazard
+* post-normal science & institutional decision making
+* return to the idea of society & institution against technology & market
 
+4. 
 
-* go back to institutions. they are born in a process of enriching ends (of end-to-end) and through that they subscribe to the vision of building better society. that's boundary work. part of it is to translate imaginary into practice. institutions complement techno-community development through situating it into process of building society (vs community). that's why we trust institutions. as everything else they are pressed to reduce itself into technology-market driven path. they should resist and that's essential part of their existence and function in the society.
 
  * in order to historicize technological developments it is important to get deeper into dynamics and perspectives of developers, to follow their epystemological vectors (lol), understand their desires, imagineries, preferences, oral histories.... to see how much of that is present in literature (especially the ones outside of western world)
  
