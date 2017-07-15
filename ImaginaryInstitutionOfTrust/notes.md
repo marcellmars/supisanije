@@ -2,6 +2,17 @@
 Title: The Imaginary Institution of Trust -- Sandbox
 ---
 
+STUKTURA TEKSTA:
+- intro: u tehno svijetu povjerenje se delegira na formalizaciju komunikacijskog kanala/medija
+- bitni keywordi: trust, technocommunity, end to end, formalization
+ * Alice & Bob: end to end kripto
+ * kripto community: postignuće & posljedice
+ * scaling-up: google wave (institucionalni okvir -- google kompanija, ali institucija bez ideje društva fejla), the dao & internet
+ * kada podignemo scale, trust faila jer je u pitanju kompleksnost i konfliktnost --> društveno
+
+- 
+
+
  * in order to historicize technological developments it is important to get deeper into dynamics and perspectives of developers, to follow their epystemological vectors (lol), understand their desires, imagineries, preferences, oral histories.... to see how much of that is present in literature (especially the ones outside of western world)
  
  
