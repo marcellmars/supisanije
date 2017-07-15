@@ -10,7 +10,7 @@ STUKTURA TEKSTA:
  * kripto community: postignuće & posljedice
  * scaling-up: google wave (institucionalni okvir -- google kompanija, ali institucija bez ideje društva fejla), the dao & internet
  * kada podignemo scale, trust faila jer je u pitanju kompleksnost i konfliktnost --> društveno
- * 
+ * kada zajednica projicira tehno-rješenje generalno na scale društva to fejla
 
 2. Internet and the failure of technological governmentality
 * level playing field in communication leads to an unequal worlds
