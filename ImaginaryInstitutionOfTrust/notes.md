@@ -11,6 +11,8 @@ STUKTURA TEKSTA:
  * scaling-up: google wave (institucionalni okvir -- google kompanija, ali institucija bez ideje društva fejla), the dao & internet
   * kada zajednica projicira tehno-rješenje generalno na scale društva to fejla
  * kada podignemo scale, trust faila jer je u pitanju kompleksnost i konfliktnost --> društveno
+ 
+ * go back to institutions. they are born in a process of enriching ends (of end-to-end) and through that they subscribe to the vision of building better society. that's boundary work. part of it is to translate imaginary into practice. institutions complement techno-community development through situating it into process of building society (vs community). that's why we trust institutions. as everything else they are pressed to reduce itself into technology-market driven path. they should resist and that's essential part of their existence and function in the society.
 
 
 2. Internet and the failure of technological governmentality
