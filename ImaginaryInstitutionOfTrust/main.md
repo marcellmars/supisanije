@@ -97,7 +97,7 @@ During 2016 Memory of the World/Public Library has set up two mirrors for the Ub
 	Care and redundancy is the reason why we decided to run mirrors. We care and we want this resource to exist… should shit happen, this multiplicity of locations and institutions might come in handy. We will see.
 	Find your Ubu. It's time to mirror each other in solidarity.
 
-In his Imaginary Institution of Society Cornelius Castoriadis posits that institutions are neither reducible to their function nor their symbolic structure, but that their historic articulation within a particular social formation requires an imaginary of its aims and goals. Inquiry into the crisis of the imaginary of present capitalist world-system opens up the question what sort of society do we want to institute. In order to supersede the vision of a world reducible to end-to-end formalizations of free market, technology and private property, we have to instill into communities the vision of a world of institutions able to generate solidarity and environmental sustainability across the planetery humanity. Will that be in plain HTML or computer cluster run Hadoop is no small question, but ultimately it is secondary – secondary to the imaginary.
+In his Imaginary Institution of Society Cornelius Castoriadis posits that institutions are neither reducible to their function nor their symbolic structure, but that their historic articulation within a particular social formation requires an imaginary of its aims and goals. Inquiry into the crisis of the imaginary of present capitalist world-system opens up the question what sort of society do we want to institute. In order to supersede the vision of a world reducible to end-to-end formalizations of free market, technology and private property, we have to instill into communities the vision of a world of institutions able to generate solidarity and environmental sustainability across the planetery humanity. Will that be in plain HTML or computer cluster run Hadoop[^comment_hadoop] is no small question, but ultimately it is secondary – secondary to the imaginary.
 
 
 -- developer communities are key to pluralism and dynamism of technological development, institutional governance models tend to overlook that dynamic, however in order to historicize the trajectory of technological development that perspective is equally formative and necessary -- i.e. what are the visions, desires and imaginaries of developers
@@ -122,3 +122,6 @@ In his Imaginary Institution of Society Cornelius Castoriadis posits that instit
 	-- public library & university: institutional setups to tackle complexity, uncertainty, unknowns, asymmetry, conflicting interests and values, social collapse
 	-- compromised institutions
 	-- transformation of instititions, institutions as a mechanism of transformation
+
+
+[^comment_hadoop]: ovdje dodat tehničke stvari iz uvoda
